@@ -1,5 +1,5 @@
 # 易码（CodeEase） 中文编程库
-# Dev:Spark(火花) Age:16
+# Dev:Spark(火花) 
 
 [![GPL-3.0 License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
